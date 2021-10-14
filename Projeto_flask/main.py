@@ -18,4 +18,5 @@ def form():
     return '<h3>Página Formuário</h3> <br> <p><b>Conteúdo da página</b></p> <form> <input type="text" id="nome" /> <label for="nome">Nome:</label>  </form>'
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port = 8000) #endereço e porta onde está rodando o servidor.
+    app.run(host='0.0.0.0', port = 8000) #endereço e porta onde está rodando o servidor, neste caso rodará na porta 8000 do localhost(computador local)
+    
