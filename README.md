@@ -19,3 +19,5 @@ Criação inicial de 4 páginas html
 4. form
 
 criação de um modelo, simples, de dados.
+
+para iniciar o servidor usamos, na raiz do projeto o comando python main.py
